@@ -1,7 +1,7 @@
 ### Hi there, I'm Alwin Sunil 👋
 
 [![Website](https://img.shields.io/website?label=alwinsunil.tk&style=for-the-badge&url=https%3A%2F%2Falwinsunil.tk)](https://alwinsunil.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AlwinSunil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=alwinsunil_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alwinsunil_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=alwinsunil_)
 
 ## I'm a Student and Frontend Developer.
 
@@ -28,11 +28,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
----
-
-## ➡️ [Blog posts](https://blog.alwinsunil.tk)
+### ➡️ [Blog posts](https://blog.alwinsunil.tk)
 
 [website]: https://alwinsunil.tk
 [twitter]: https://twitter.com/alwinsunil_
