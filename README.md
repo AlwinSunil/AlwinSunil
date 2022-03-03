@@ -1,6 +1,6 @@
 ### Hi there, I'm Alwin Sunil &nbsp;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
 
-[![Website](https://img.shields.io/website?label=alwinsunil.tk&style=for-the-badge&url=https%3A%2F%2Falwinsunil.tk)](https://alwinsunil.tk)
+[![Website](https://img.shields.io/website?label=alwinsunil.in&style=for-the-badge&url=https%3A%2F%2Falwinsunil.in)](https://alwinsunil.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alwinsunil_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=alwinsunil_)
 
 ## I'm a Student and Frontend Developer.
@@ -26,8 +26,8 @@
 <br />
 <br />
 
-### ➡️ [Blog posts](https://blog.alwinsunil.tk)
+### ➡️ [Blog posts](https://blog.alwinsunil.in)
 
-[website]: https://alwinsunil.tk
+[website]: https://alwinsunil.in
 [twitter]: https://twitter.com/alwinsunil_
 [instagram]: https://instagram.com/mr_alwin_
