@@ -1,15 +1,15 @@
-### Hi there, I'm Alwin Sunil &nbsp;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
+### Hi there, I'm Alwin Sunil 👋
 
 [![Website](https://img.shields.io/website?label=alwinsunil.in&style=for-the-badge&url=https%3A%2F%2Falwinsunil.in)](https://alwinsunil.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alwinsunil_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=alwinsunil_)
 
 ## I'm a Student and Frontend Developer.
 
-- 🌱 I’m currently learning to create web apps
+-   🌱 I’m currently learning to create web apps
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@alwinsunil_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alwinsunil_)](https://twitter.com/alwinsunil_) [![Mail Badge](https://img.shields.io/badge/-@mr_alwin_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mr_alwin_) [![Mail Badge](https://img.shields.io/badge/-alv14alwin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alv14alwin@gmail.com@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alwinsunil_) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_alwin_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alv14alwin@gmail.com@gmail.com)
 <br />
 
 ### Languages and Tools:
