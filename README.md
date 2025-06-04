@@ -1,21 +1,15 @@
 ## Hi 👋, I'm Alwin</h1>
-### A passionate full stack developer and CS student</h3>
+### CS student</h3>
 
 [![Website](https://img.shields.io/website?label=alwinsunil.in&style=for-the-badge&url=https%3A%2F%2Falwinsunil.in)](https://alwinsunil.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alwinsunil_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=alwinsunil_)
 
-- 🔭 I’m currently working on [Article Plus](https://github.com/kalviumcommunity/S46_Alwin_Capstone_ArticlePlus)
+- 🔭 I’m currently working as an part-time DevOps Engineer
 
-- 🌱 I’m currently learning **to build awesome fullstack apps**
+- 🌱 I’m currently learning **more of computer science**
 
 - 👨‍💻 All of my projects are available at [alwinsunil.in](https://alwinsunil.in)
 
 - 📫 How to reach me **alv14alwin@gmail.com**
-
-### Connect with me:
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alwinsunil_) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_alwin_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alv14alwin@gmail.com@gmail.com)
-<br />
 
 ### Languages and Tools:
 
